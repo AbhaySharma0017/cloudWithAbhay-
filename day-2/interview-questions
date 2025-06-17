@@ -1,4 +1,4 @@
-# 📄 AWS IAM – Interview Questions
+##📄 AWS IAM – Interview Questions
 
 Below are some frequently asked AWS IAM interview questions with simple and clear answers.
 
@@ -11,6 +11,7 @@ It's important because:
 - 🔒 It secures your cloud environment
 - ✅ Enforces the principle of least privilege
 - 🛡️ Ensures only authorized users/services can perform actions
+
 ---
 
 ❓ Q2: What is the difference between IAM users and IAM roles?
