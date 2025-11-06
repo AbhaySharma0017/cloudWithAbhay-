@@ -59,7 +59,7 @@ It's important because:
     }
   ]
 }
-
+```
 ❓ Q4: What is the principle of least privilege, and why is it important?
 
 🔐 Principle of Least Privilege:
